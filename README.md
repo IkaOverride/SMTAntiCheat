@@ -7,4 +7,4 @@
 - Money altering cheats
 - Franchise acquiring cheats
 ### Compatibility
-- The mod is only be compatible with the latest game version
+- The mod is only compatible with the latest game version
